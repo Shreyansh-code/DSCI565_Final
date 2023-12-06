@@ -12,3 +12,5 @@ Note: The merged_data.csv file is over 100MB, therefore have not uploaded on Git
 4. fnn_model.pth - FNN Trained Model Saved Parameters
 
 5. cnn_model.pth - CNN Trained Model Saved Parameters
+
+6. rnn_gru.ipynb - Code for RNN and GRU model training
