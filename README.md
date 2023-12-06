@@ -14,3 +14,6 @@ Note: The merged_data.csv file is over 100MB, therefore have not uploaded on Git
 5. cnn_model.pth - CNN Trained Model Saved Parameters
 
 6. rnn_gru.ipynb - Code for RNN and GRU model training
+
+7. textembeddings.ipynb - Code to create embeddings from text scraped from urls.
+
