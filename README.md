@@ -21,3 +21,5 @@ Note: The merged_data.csv file is over 100MB, therefore have not uploaded on Git
 
 9. lstm.ipynb - LSTM model trainig and Interpretability implementation
 
+10. lstm_class.ipynb - LSTM model trained for classification using SMOTE but model still overfitting.
+
