@@ -17,3 +17,7 @@ Note: The merged_data.csv file is over 100MB, therefore have not uploaded on Git
 
 7. textembeddings.ipynb - Code to create embeddings from text scraped from urls.
 
+8. models.ipynb - ML models trained for baseline score
+
+9. lstm.ipynb - LSTM model trainig and Interpretability implementation
+
